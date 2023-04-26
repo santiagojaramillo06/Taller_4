@@ -1,0 +1,11 @@
+name;price;category;description
+Lasagna;30000;Platos Fuertes;Plato tradicional de la cocina italiana que se prepara con láminas de pasta superpuestas rellenas de alguna salsa que usualmente contiene carne y queso.
+Risotto;35000;Platos Fuertes;Plato cuyo ingrediente principal es el arroz que se cocina mezclándolo con queso generalmente parmesano caldo y otros ingredientes. Es un plato típico del norte de Italia.
+Pizza;40000;Platos Fuertes;Preparación culinaria que consiste en un pan plano, de forma circular, elaborado con harina de trigo, levadura, agua, sal y aceite de oliva. Cubierta con salsa de tomate, mozzarella y sus toppings preferidos. Horneada a alta temperatura en un horno de leña.
+Macchiato;15000;Bebidas Calientes;Tipo de café hecho con espresso con un chorrito de leche espumosa al vapor.
+Latte;16000;Bebidas Calientes;Tipo de café hecho con espresso y leche caliente al vapor con más leche que un Cappuccino.
+Cappuccino;17000;Bebidas Calientes;Tipo de café hecho con espresso y leche que ha sido espumada con vapor a presión.
+Espresso;18000;Bebidas Calientes;Tipo de café negro fuerte hecho forzando vapor a través de granos de café molidos.
+Panna Cotta;28000;Postres;Postre típico de la región italiana del Piamonte elaborado a partir de crema de leche o nata azúcar y gelificantes que se suele adornar con mermeladas de frutas rojas. Recuerda al flan pero su sabor es más lácteo con una textura más suave que el flan.
+Tiramisu;30000;Postres;Postre en capas tradicional italiano preparado con café bizcocho de soletilla (savoiardi) yemas de huevo mascarpone (queso italiano de pasta blanda hecho a base de crema) y cacao.
+Gelato;25000;Postres;Postre helado italiano elaborado con una base de 325% de grasa láctea leche entera y azúcar pudiendo incluir frutas frutos secos chocolate huevos café u otros ingredientes frescos en función del sabor específico que se desea obtener. Contiene un 70% menos de aire y más saborizante natural que otros tipos de postres congelados lo que le da una cremosidad y riqueza que lo distingue de otros helados.
